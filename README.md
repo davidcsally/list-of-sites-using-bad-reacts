@@ -4,7 +4,7 @@ Outdated > Version is less than 15 ?
 Non Production > Unminified build of React, most likely not using NODE_ENV=production
 
 | Company | Website | Issue | Date Checked |
-|---|---|---|---|---|
+|---|---|---|---|
 | AWS console | https://us-east-2.console.aws.amazon.com/console/home | Non Production | 6/19/2018 |
 | Rotten Tomaties | https://www.rottentomatoes.com/ | Non Production | 6/19/2018 |
 | Flipboard | https://flipboard.com/ | Outdated | 6/19/2018 |
