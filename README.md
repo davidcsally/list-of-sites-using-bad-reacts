@@ -6,7 +6,7 @@ Non Production > Unminified build of React, most likely not using NODE_ENV=produ
 | Company | Website | Issue | Date Checked |
 |---|---|---|---|
 | AWS console | https://us-east-2.console.aws.amazon.com/console/home | Non Production | 6/19/2018 |
-| Rotten Tomaties | https://www.rottentomatoes.com/ | Non Production | 6/19/2018 |
+| Rotten Tomatoes | https://www.rottentomatoes.com/ | Non Production | 6/19/2018 |
 | Flipboard | https://flipboard.com/ | Outdated | 6/19/2018 |
 | IMDB | https://www.imdb.com/title/tt3778644/ | Outdated | 6/19/2018 |
 | The New York Times | https://www.nytimes.com/ | Outdated | 6/19/2018 |
