@@ -15,6 +15,7 @@ A running list of websites I have seen using old or non production react builds.
 | Mattermark |https://mattermark.com/ | 6/6/2018 |
 | JustWorks (logged in) | https://secure.justworks.com/ | 6/19/2018 |
 | Rotten Tomatoes | https://www.rottentomatoes.com/ | 6/19/2018 |
+| Wow Air | https://wowair.us/ | 7/1/2018 |
 
 ### Outdated versions
 | Company | Website | Date Checked |
@@ -28,6 +29,7 @@ A running list of websites I have seen using old or non production react builds.
 | LearnPub | https://leanpub.com/ | 6/22/2018 |
 | Mr. Porter | https://www.mrporter.com/ | 6/7/2018 |
 | The New York Times | https://www.nytimes.com/ | 6/19/2018 |
+| Norwegian Air | https://www.norwegian.com/uk/ | 7/1/2018 |
 | Nudie Jeans | https://www.nudiejeans.com/ | 6/7/2018 |
 | Scribd | https://www.scribd.com/ | 6/6/2018 |
 
