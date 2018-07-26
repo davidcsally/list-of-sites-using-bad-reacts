@@ -33,6 +33,7 @@ A running list of websites I have seen using old or non production react builds.
 | Norwegian Air | https://www.norwegian.com/uk/ | 7/1/2018 |
 | Nudie Jeans | https://www.nudiejeans.com/ | 6/7/2018 |
 | Scribd | https://www.scribd.com/ | 6/6/2018 |
+| The Walt Disney Company | https://www.shopdisney.com/secure/account | 7/26/2018 |
 
 Special shout outs:
   * JustWorks uses an outdated version for their sign up page, but their main application uses an unminified version.
