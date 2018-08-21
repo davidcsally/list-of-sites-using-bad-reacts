@@ -31,6 +31,7 @@ A running list of websites I have seen using old or non production react builds.
 | Mr. Porter | https://www.mrporter.com/ | 6/7/2018 |
 | The New York Times | https://www.nytimes.com/ | 6/19/2018 |
 | Norwegian Air | https://www.norwegian.com/uk/ | 7/1/2018 |
+| Nintendo - various sites | https://splatoon.nintendo.com/ | 8/20/2018 |
 | Nudie Jeans | https://www.nudiejeans.com/ | 6/7/2018 |
 | Scribd | https://www.scribd.com/ | 6/6/2018 |
 | The Walt Disney Company | https://www.shopdisney.com/secure/account | 7/26/2018 |
