@@ -16,6 +16,7 @@ A running list of websites I have seen using old or non production react builds.
 | Mattermark |https://mattermark.com/ | 6/6/2018 |
 | JustWorks (logged in) | https://secure.justworks.com/ | 6/19/2018 |
 | Rotten Tomatoes | https://www.rottentomatoes.com/ | 6/19/2018 |
+| Variety | https://variety.com/ | 8/28/2018 |
 | Wow Air | https://wowair.us/ | 7/1/2018 |
 
 ### Outdated versions
