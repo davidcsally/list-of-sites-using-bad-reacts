@@ -12,6 +12,7 @@ A running list of websites I have seen using old or non production react builds.
 | AWS console | https://us-east-2.console.aws.amazon.com/console/home | 6/19/2018 |
 | Best Buy | https://www.bestbuy.com/ | 7/25/2018 |
 | Clash of the Clans | https://clashofclans.com/ | 6/19/2018 |
+| Diode Dynamics - Product Detail Pages | https://www.diodedynamics.com/h11-slf-led.html | 9/11/2018 |
 | Fullstack Academy | https://www.fullstackacademy.com/ | 6/20/2018 |
 | Mattermark |https://mattermark.com/ | 6/6/2018 |
 | JustWorks (logged in) | https://secure.justworks.com/ | 6/19/2018 |
