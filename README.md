@@ -31,6 +31,7 @@ A running list of websites I have seen using old or non production react builds.
 | IMDB | https://www.imdb.com/title/tt3778644/ | 6/19/2018 |
 | JustWorks (landing page) | https://justworks.com/ | 6/19/2018 |
 | LearnPub | https://leanpub.com/ | 6/22/2018 |
+| VS Code | https://code.visualstudio.com/ | 9/13/2018 |
 | Mr. Porter | https://www.mrporter.com/ | 6/7/2018 |
 | Netflix | https://www.netflix.com/Login | 8/20/2018 |
 | The New York Times | https://www.nytimes.com/ | 6/19/2018 |
